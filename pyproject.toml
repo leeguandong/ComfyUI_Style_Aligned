@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_style_aligned"
+description = "ComfyUI for [a/style-aligned](https://github.com/google/style-aligned)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_Style_Aligned"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Style_Aligned"
+Icon = ""
